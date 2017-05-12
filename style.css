@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #005635;
 }
 
 #header
 {
-	background: #ccc;
+	background-color: #e151e1;
 	padding: 20px;
 }
 
@@ -52,12 +52,11 @@
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
-	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-color: #ffd9b3 ;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+    font-size : 15pt
 }
 
 #edito h2
@@ -74,21 +73,20 @@
 	padding: 20px;
 	margin: 20px;
 	-webkit-border-radius: 18px;
-	border-radius: 18px;
+	border-radius: 80px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
-	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-color: #784512;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+    color : white ;
 }
 
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background-color: #e151e1;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
